@@ -5,7 +5,7 @@ let transcripcion="";
 recognition.onresult = event => {
 for (const result of event.results) {
     transcripcion += "<br>"+result[0].transcript;  
-    //document.getElementById("caja").innerHTML =transcripcion;
+    document.getElementById("caja").innerHTML =transcripcion;
 }
 document.getElementById("caja").innerHTML= transcripcion;
 }
