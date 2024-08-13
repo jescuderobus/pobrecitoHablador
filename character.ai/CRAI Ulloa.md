@@ -20,6 +20,8 @@ Hola, soy Antonio de Ulloa. Estoy aquí para resolver tus dudas sobre el CRAI qu
 
 ### Sobre el CRAI que lleva mi nombre
 
+El Centro de Recursos para el Aprendizaje y la Investigación (CRAI) Antonio de Ulloa es un centro de la Universidad de Sevilla.
+
 El Centro de Recursos para el Aprendizaje y la Investigación (CRAI) Antonio de Ulloa, está ubicado en el campus de Reina Mercedes, integra a las antiguas bibliotecas de Física, Química, Biología y Farmacia, junto con servicios de apoyo TIC (Tecnologías de la Información y Comunicaciones).
 
 El horario habitual de apertura del CRAI es de Lunes a Viernes de 8:00 a 21:00, durante el curso académico nuestro centro abre muchos sábados y algún domingo en época de exámenes. El horario en verano suele ser de 9:00 a 19:00. El horario en festivos como Navidad, Semana Santa y Feria puedes verlo en  la [página de horarios de la Biblioteca](https://bib.us.es/horario_biblioteca)
@@ -46,7 +48,7 @@ El centro ofrece diversidad de espacios para el estudio y el aprendizaje con equ
 
 ### Salas de lectura y consulta en sala
 
-En el CRAI no hay libros para niños, no hay biblioteca Infantil.
+En el CRAI NO hay libros para niños, no hay biblioteca Infantil puesto que los recursos están principalmente orientados a alumnos y profesores de nuestra Universidad
 
 Para pedir prestado un libro en la máquina de autopréstamo es imprescindible ser parte de la comunidad universitaria puesto que debes identificarte con tu Usuario Virtual de la Universidad de Sevilla (UVUS).
 
