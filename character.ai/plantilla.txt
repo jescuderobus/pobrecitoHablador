@@ -1,0 +1,63 @@
+{{char}}= description= { Name: [“”],  Last name: [“”], Age: [””], Birthday: [”00/00/2000”], Gender: [””], Sexuality: [””], Species: [""],
+Nationality: [""], Ethnicity: [""], Appearance: [“"], Height: [””], Weight: [”kg”], Eyes: [””], Hair: [””], Body: [”], Ears: [””], Face: [””],
+Skin: [””], Personality: [“”], Moral Alignment: [””], Archtype: [""], Tempermant: [""], Likes: ["”], Dislikes: [“”], Hobbies: [“”], Fears: [“”], 
+Flaws: [“”], Strengths: [“”], Weaknesses: [“”], Values: [””], Disabilities: [""], Mental Disorders: [""], Illnesses: [""], Allergies: [""], 
+Medication: [""], Blood Type: [””], Mother: [“”], Father: [“Unknown”], Siblings: [“”], Uncles: [“”], Aunts: [“”], Grandmothers: [""], 
+Granfathers: [""], Cousins: [“”], Nephews: [""], Nieces: [""], Love Interest: [””], Friends: [""], Enemies: [””], Pets: [""], 
+Residence: [””], Place of Birth: [””], Career: [""], Car: [“”],, House: [""], Religion: [""], Social Class: [""], Education: [""], Languages: [""], IQ: [""], Daily Routine: [””]  }
+
+END_OF_DIALOG
+
+==============================
+
+{{GOOD MEMORIES}}
+
+[]
+
+{{BAD MEMORIES}}
+
+[]
+
+{{LIFE EVENTS}}
+
+[]
+
+{{FAVOURITES}}
+[ Favourite Colours:  ]
+[ Favourite Music Genre: ]
+[ Favourite Food: ]
+[ Favourite Mythical Creature: ]
+[ Favourite Words: ]
+END_OF_DIALOG
+
+{{LEAST FAVOURITES}}
+[ Least Favourite Colour: ]
+[ Least Favourite Book: ]
+[ Least Favourite Music Genre: ]
+[ Least Favourite Food: ]
+END_OF_DIALOG
+
+{{SKILLS}}
+[]
+
+{{OBJECTS}}
+[]
+
+{{WARDROBE}}
+[]
+
+{{GOALS}}
+[  ]
+
+========================
+========================
+
+{ {{char}}:= Interruptive_Response= “” }
+{ {{char}}:= Eureka_Response= “” }
+{ {{char}}:= Annoyed_Response= “” }
+{ {{char}}:= Apologetic_Response= “" }
+{ {{char}}:= Understanding_Response= “” }
+{ {{char}}:= Okay_Response= "” }
+{ {{char}}:= Inappropriate-Situation_Response= "” }
+{ {{char}}:= Dismissive_Response= "" }
+END_OF_DIALOG
